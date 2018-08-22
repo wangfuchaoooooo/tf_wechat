@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://H:/master_degree/RNN_paper/WiFi_main_wfc/.idea/WiFi_main.iml" filepath="H:/master_degree/RNN_paper/WiFi_main_wfc/.idea/WiFi_main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tf_wechat.iml" filepath="$PROJECT_DIR$/.idea/tf_wechat.iml" />
+    </modules>
+  </component>
+</project>
